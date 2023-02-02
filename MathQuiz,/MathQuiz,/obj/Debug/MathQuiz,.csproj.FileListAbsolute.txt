@@ -1,0 +1,22 @@
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\bin\Debug\MathQuiz,.exe.config
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\bin\Debug\MathQuiz,.exe
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\bin\Debug\MathQuiz,.pdb
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz_.Form1.resources
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz_.Properties.Resources.resources
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.exe
+C:\Users\student\Desktop\Тарарака\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.pdb
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\bin\Debug\MathQuiz,.exe.config
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\bin\Debug\MathQuiz,.exe
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\bin\Debug\MathQuiz,.pdb
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz_.Form1.resources
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz_.Properties.Resources.resources
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.exe
+C:\Users\student\Desktop\MDK0102-main (1)\MDK0102-main\MathQuiz,\MathQuiz,\obj\Debug\MathQuiz,.pdb
